@@ -19,6 +19,7 @@ Question 2:
 
 
 
+## Note this is a fork of the original repository, to see commit history view original repository [here](https://github.com/Sam-Callaway/Robot-vs-Reporters)
 
 ## Usage 
 Run the website, click on how to play, and press the start button. 
